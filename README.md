@@ -58,6 +58,12 @@ A console-based application developed in C++ to manage various administrative an
    - Input data as prompted to perform various operations within the system.
 
 ---
+## Screen shots
+
+<img src="gsms.png" >
+
+<img src="gsms1.png" >
+---
 
 ## Project Structure
 
