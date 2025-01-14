@@ -29,6 +29,7 @@ A console-based application developed in C++ to manage various administrative an
 ## Technologies Used
 
 - **C++**: Core programming language for application logic.
+- **PostgreSQL: For all database needs for the application.
 
 ---
 
